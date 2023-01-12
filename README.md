@@ -6,6 +6,7 @@
 ## Binary Search Tree Aşamaları
 
 
-1- Root'u 5 olarak seçtim.
+1- Root'u 5 olarak seçtim. Rootun sağında 7, solunda 3 bulunur.
                  
 ![binary resarch tree](https://i.hizliresim.com/hdpx891.jpg)
+
